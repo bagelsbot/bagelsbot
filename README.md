@@ -1,6 +1,6 @@
 # Hi I'm Bagels ✨
 
-# Education
+## Education
 CS-Math student, currently learning Java through university, and C++ in my little free time.
 
 ## Interests and Hobbies
